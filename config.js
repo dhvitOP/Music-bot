@@ -1,6 +1,6 @@
 const config = {
-    token: 'ODA0OTkzNTU2NzQ5MzUzMDEz.YBUaqw.5v91HLDEnNit7q63hjJJVSok5t8',
-    prefix: '+'
+    token: 'TOKEN_HERE',
+    prefix: 'PREFIX_HERE'
 }
 
 module.exports = config;
